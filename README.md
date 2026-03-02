@@ -158,5 +158,4 @@ AI Developer | Real-Time Systems | Voice Intelligence Architect
 ---
 
 
-Best regards,
-Lavanya 🚀
+
