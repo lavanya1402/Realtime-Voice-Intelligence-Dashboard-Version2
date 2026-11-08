@@ -1,5 +1,5 @@
 ﻿from dataclasses import dataclass, field
-from typing import Dict, Optional
+from typing import Dict
 import time
 
 @dataclass

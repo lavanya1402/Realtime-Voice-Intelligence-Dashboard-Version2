@@ -158,4 +158,16 @@ AI Developer | Real-Time Systems | Voice Intelligence Architect
 ---
 
 
+## Run locally
 
+```bash
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+cp .env.example .env               # add your keys
+streamlit run ui/dashboard.py
+```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Built by [Lavanya Srivastava](https://github.com/lavanya1402), Lavanya AI Consultancy.

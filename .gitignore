@@ -30,3 +30,5 @@ __pycache__/
 # =========================
 .DS_Store
 Thumbs.db
+.ruff_cache/
+.pytest_cache/
